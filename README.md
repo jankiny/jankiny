@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jankiny&show_icons=true&theme=dark" alt="jankiny" />
+<div/>
+<br />
+  
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jankiny&layout=compact&hide=html&theme=dark" alt="jankiny" />
+<div/>
+<br />
+
